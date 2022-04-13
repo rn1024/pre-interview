@@ -2,6 +2,7 @@
  * 原型题目
  * 1.每个对象的__proto__属性指向构造函数的prototype，prototype成为原型对象
  * 2.原型对象的constructor属性指向构造函数本身
+ * https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
  */
 
 function Person (nick, age) {
