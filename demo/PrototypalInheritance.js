@@ -40,3 +40,5 @@ Teacher.prototype.constructor = Teacher;
 
 var Teacher1 = new Teacher('1', 1, '数学');
 console.log('Teacher1', Teacher1, Teacher1.__proto__);
+
+
